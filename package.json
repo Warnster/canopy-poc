@@ -2,7 +2,7 @@
   "name": "canopy-poc",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Warnster.github.io/canopy-poc",
+  "homepage": "https://warnster.github.io/canopy-poc",
   "type": "module",
   "scripts": {
     "dev": "vite",
